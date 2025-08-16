@@ -13,10 +13,13 @@ In real-world robotics, safety requires explicit physical constraints, which are
 
 **PhysFMP** addresses this challenge by embedding **impedance control** directly into Flow-Matching policies, enabling robots to perform tasks such as **sorting and pick-and-place in cluttered environments** while maintaining both safety and compliance.  
 
+---
 
 As illustrated in the framework proposed by Baldan et al. (June 2025) [Physics-Constrained Flow Matching](https://arxiv.org/pdf/2506.04171v1), Flow-Matching can be extended with PDE-based constraints:  
 
 ![Physics-Constrained Flow Matching framework (Baldan et al., 2025)](assets/PhysFlowMatching.png)  
+
+---
 
 ![An Impedance Control Project for Franka Robot](assets/ImpedanceControl.png)
 
