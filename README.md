@@ -17,6 +17,6 @@ As illustrated in the framework proposed by Baldan et al. (June 2025) [Physics-C
 
 ![Physics-Constrained Flow Matching framework (Baldan et al., 2025)](assets/PhysFlowMatching.png)  
 
-![An Impedance Control Project for Franka Robot](assets/ImpedanceControl.pdf)
+![An Impedance Control Project for Franka Robot](assets/ImpedanceControl.png)
 
 
