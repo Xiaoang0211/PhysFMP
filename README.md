@@ -21,6 +21,7 @@ As illustrated in the framework proposed by Baldan et al. (June 2025) [Physics-C
 
 ---
 
+An Impedance Control Project for Franka Robot:
 ![An Impedance Control Project for Franka Robot](assets/ImpedanceControl.png)
 
 
